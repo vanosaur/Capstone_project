@@ -1,11 +1,4 @@
 body{
-    /* width: Fixed (1,440px)px; */
-    height: Hug (4,274px)px; */
-    /* width:90rem;
-    height:267.125rem; */
-    min-height: 900px;
-    top: -1674px;
-    left: -124px;
     padding: 0px 48px 0px 48px;
     gap: 0px;
     opacity: 0px;
@@ -13,8 +6,6 @@ body{
 }
 /* header */
 header{
-    /* width:1,344px;
-    height:88px; */
     padding: 20px 0px 20px 0px;
     gap: 52px;
     border: 0px 0px 1.5px 0px;
@@ -25,15 +16,11 @@ header{
 
 }
 .logo{
-    /* width: 193px;
-    height: 48px; */
     gap: 12px;
     opacity: 0px;
     
 }
 .text{
-    /* width: 193px;
-    height: 28px; */
     gap: 0px;
     opacity: 0px;
     font-family: Source Serif 4;
@@ -46,8 +33,6 @@ header{
 
 }
 .contents{
-    /* width: 491px;
-    height: 32px; */
     gap: 40px;
     opacity: 0px;
    
@@ -55,8 +40,6 @@ header{
 }
 
 ul{
-    /* width: 80px;
-    height: 32px; */
     gap: 40px;
     opacity: 0px;
     font-family: Roboto Serif;
@@ -71,21 +54,15 @@ ul{
 }
 /* div1 */
 main{
-    /* width: 1,344px;
-    height:4,006px; */
     padding: 48px 0px 48px 0px;
     gap: 0px;
     opacity: 0px;
 }
 .container{
-    /* width: 1,344px;
-    height: 3,910px; */
     gap: 0px;
     opacity: 0px;
 }
 .first{
-    /* width: Fill (1,344px)px;
-    height: Hug (1,156px)px; */
     padding: 96px 0px 96px 0px;
     margin: 52px;
     border: 0px 0px 1.5px 0px;
@@ -94,8 +71,6 @@ main{
 
 }
 .heading1{
-    /* width: 1344px;
-    height: 240px; */
     gap: 0px;
     opacity: 0px;
     font-family: Roboto Serif;
@@ -118,8 +93,6 @@ main{
 }
 /* div 2 */
 .second{
-    /* width: Fill (1,344px)px;
-    height: Hug (400px)px; */
     padding: 96px 0px 96px 0px;
     gap: 0px;
     border: 0px 0px 1.5px 0px;
@@ -131,8 +104,6 @@ main{
     align-items: center;
 }
 .heading2{
-    /* width: 900px;
-    height: 208px; */
     max-width: 900px;
     gap: 0px;
     opacity: 0px;
@@ -148,8 +119,6 @@ main{
 }
 /* div 3 */
 .third{
-    /* width: Fill (1,344px)px;
-    height: Hug (216px)px; */
     padding: 52px 0px 52px 0px;
     gap: 52px;
     opacity: 0px;
@@ -172,14 +141,10 @@ main{
     color: #D7E4D7;
 }
 table{
-    /* width: Fill (646px)px;
-    height: Hug (112px)px; */
     gap: 20px;
     opacity: 0px;
 }
 tr{
-    /* width: Fill (646px)px;
-    height: Hug (24px)px; */
     gap: 52px;
     opacity: 0px;
 }
@@ -201,8 +166,6 @@ td{
 
 /* div 4 */
 .fourth{
-    /* width: Fill (1,344px)px;
-    height: Hug (744px)px; */
     padding: 32px 0px 32px 0px;
     gap: 0px;
     border: 0px 0px 1.5px 0px;
@@ -210,8 +173,6 @@ td{
     background: #020D02;
 }
 .card{
-    /* width: Fill (1,344px)px;
-    height: Hug (680px)px; */
     padding: 0px 68px 0px 0px;
     gap: 0px;
     border-radius: 28px;
@@ -221,14 +182,10 @@ td{
     display: flex;
 }
 .imagediv{
-    /* width: 560px;
-    height: 680px; */
     gap: 0px;
     opacity: 0px;
 }
 .imagediv img{
-    /* width: 560px;
-    height: 680px; */
     left: -160px;
     gap: 0px;
     border: 1.5px 0px 0px 0px;
@@ -236,8 +193,6 @@ td{
     border-radius: 28px;   
 }
 .letter{
-    /* width: Fill (716px)px;
-    height: Hug (136px)px; */
     gap: 20px;
     opacity: 0px;
     margin-left: 20px;
@@ -245,8 +200,6 @@ td{
     align-content: center;
 }
 .one{
-    /* width: 716px;
-    height: 52px; */
     gap: 0px;
     opacity: 0px;
     font-family: Roboto Serif;
@@ -258,8 +211,6 @@ td{
     color: #D7E4D7;
 }
 .two{
-    /* width: 716px;
-    height: 64px; */
     gap: 0px;
     opacity: 0px;
     font-family: Public Sans;
@@ -283,7 +234,6 @@ td{
 .photo{
     width: 720px;
     height: 900px;
-    /* left: 572px; */
     padding: 0px 68px 0px 0px;
     gap: 0px;
     opacity: 0px;
@@ -351,8 +301,6 @@ td{
 
 /* div 6 */
 .sixth{
-    /* width: Fill (1,344px)px;
-    height: Hug (494px)px; */
     padding: 52px 0px 52px 0px;
     gap: 52px;
     border: 0px 0px 1.5px 0px;
@@ -375,16 +323,12 @@ td{
     margin-bottom: 40px;
 }
 .testimonialscards{
-    /* width: Fill (1,344px)px;
-    height: Hug (286px)px; */
     margin-top: 20px;
     gap: 32px;
     opacity: 0px;
     display: flex;
 }
 .grid{
-    /* width: Fixed (288px)px;
-    height: Hug (286px)px; */
     padding: 32px;
     gap: 20px;
     border-radius: 20px;
@@ -393,8 +337,6 @@ td{
     border-top:1.5px;
 }
 .grid1{
-    /* width: Fixed (288px)px;
-    height: Hug (286px)px; */
     padding: 32px;
     gap: 20px;
     border-radius: 20px;
@@ -404,16 +346,12 @@ td{
 }
 
 .profile{
-    /* width: Fill (224px)px;
-    height: Hug (48px)px; */
     gap: 12px;
     opacity: 0px;
     display: flex;
 }
 
 .picture img{
-    /* width: 48px;
-    height: 48px; */
     gap: 0px;
     border-radius: 999px;
     border: 1.5px 0px 0px 0px;
@@ -421,15 +359,11 @@ td{
     border-top: 1.5px solid #000000;
 }
 .profilecontent{
-    /* width: Fill (164px)px;
-    height: Hug (40px)px; */
     gap: 0px;
     opacity: 0px;
     
 }
 .bold{
-    /* width: Fill (164px)px;
-    height: Hug (40px)px; */
     gap: 0px;
     opacity: 0px;
     font-family: Public Sans;
@@ -443,8 +377,6 @@ td{
     margin: 0; padding: 0;
 }
 .grey{
-    /* width: Fill (164px)px;
-    height: Hug (40px)px; */
     gap: 0px;
     opacity: 0px;
     font-family: Public Sans;
@@ -457,8 +389,6 @@ td{
     margin: 0; padding: 0;
 }
 .quotes{
-    /* width: Fill (224px)px;
-    height: Hug (154px)px; */
     padding: 0px 0px 10px 0px;
     gap: 12px;
     opacity: 0.8px;
@@ -466,8 +396,6 @@ td{
     margin-top: 20px;
 }
 .line{
-    /* width: Fixed (48px)px;
-    height: Fill (144px)px; */
     gap: 0px;
     opacity: 0px;
     margin-right: 30px;
@@ -483,8 +411,6 @@ td{
     border: 1.5px solid #91B69133;
 }
 .thoughts{
-    /* width: 164px;
-    height: 144px; */
     gap: 0px;
     opacity: 0px;
     font-family: Public Sans;
@@ -498,8 +424,6 @@ td{
 
 /* footer */
 footer{
-    /* width: Fill (1,344px)px;
-    height: Hug (180px)px; */
     padding: 96px 0px 32px 0px;
     gap: 32px;
     border: 1.5px 0px 0px 0px;
@@ -507,8 +431,6 @@ footer{
     background: #020D02;
 }
 .tags{
-    /* width: Fill (1,344px)px;
-    height: Hug (52px)px; */
     gap: 0px;
     justify-content: space-between;
     opacity: 0px;
@@ -516,8 +438,6 @@ footer{
 
 }
 .year{
-    /* width: 248px;
-    height: 32px; */
     gap: 0px;
     opacity: 0px;
     font-family: Roboto Serif;
@@ -529,8 +449,6 @@ footer{
     color: #D1EBD19E;
 }
 .button1{
-    /* width: Hug (172px)px;
-    height: Hug (52px)px; */
     padding: 14px 32px 14px 32px;
     gap: 0px;
     border-radius: 16px;
@@ -539,8 +457,6 @@ footer{
     border: 1.5px solid #91B69133;
 }
 .another{
-    /* width: 108px;
-    height: 24px; */
     gap: 0px;
     opacity: 0px;
     font-family: Public Sans;
@@ -564,13 +480,16 @@ footer{
     }
     .contents{
         display: none;
-        /* position: relative; */
     }
     .first .heading1{
         font-size: 80px;
+        text-align: center;
     }
     .first .image img{
-        display: none;
+        flex-direction: column;
+        width: 100%;
+        height: 100%;
+
     }
 
     .second{
@@ -606,32 +525,44 @@ footer{
         text-align: center;
         margin-left: 20px;
     }
+
+
     .fifth{
         flex-direction: column;
+        width: 100%;
     }
-    .textcontent{
-        width: 29%;
-        height: 100%;
+
+    .textcontent .writing{
+        width: 100%;
+        align-content: center;
     }
     .textcontent .writing .three{
-        flex-direction: column;
+        text-align: center;
+        margin-left: 90px;
     }
     .textcontent .writing .four{
-        width: 100%;
+        text-align: center;
+        margin-left: 90px;
     }
     .textcontent .writing .button{
         text-align: center;
-        width:100% ;
-    }
-    .fifth .photo{
-        width: 40%;
-        height: 80%; 
-        text-align: left;
+    } 
+     .fifth .photo{
+        align-items: center;
+        justify-content: center;
+        align-content: center;
+        margin-left: 150px;
     }
     .fifth .photo img{
-        width: 80%;
+        width:80%;
         height: 80%;  
-    }
+        align-items: center;
+        justify-content: center;
+        align-content: center;
+    } 
+
+
+    
     .sixth{
         flex-direction: column;
         text-align: center;
