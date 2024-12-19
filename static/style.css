@@ -17,8 +17,7 @@ header{
 }
 .logo{
     gap: 12px;
-    opacity: 0px;
-    
+    opacity: 0px;   
 }
 .text{
     gap: 0px;
@@ -58,19 +57,7 @@ main{
     gap: 0px;
     opacity: 0px;
 }
-.container{
-    gap: 0px;
-    opacity: 0px;
-}
-.first{
-    padding: 96px 0px 96px 0px;
-    margin: 52px;
-    border: 0px 0px 1.5px 0px;
-    opacity: 0px;
-    background: #020D02;
-
-}
-.heading1{
+.container .heading1{
     gap: 0px;
     opacity: 0px;
     font-family: Roboto Serif;
@@ -82,14 +69,9 @@ main{
     color: #D7E4D7;
     margin-bottom: 50px;
 }
-.image img{
-    width: 1344px;
-    height: 672px;
-    gap: 0px;
+.container .image img{
     border-radius: 28px;
-    border: 1.5px 0px 0px 0px;
     opacity: 0px;
-
 }
 /* div 2 */
 .second{
@@ -510,7 +492,12 @@ footer{
         text-align: center;
     }
     table{
-        width: 90%;      
+        width: 100%;   
+    }
+    table tr td{
+        justify-content: space-between;
+        text-align: center;
+        
     }
     .fourth .card{
         flex-direction: column;
@@ -560,9 +547,6 @@ footer{
         justify-content: center;
         align-content: center;
     } 
-
-
-    
     .sixth{
         flex-direction: column;
         text-align: center;
