@@ -460,8 +460,8 @@ footer{
     .logo .text{
         text-align: center;
     }
-    .contents{
-        display: none;
+    .contents ul{
+        justify-content: center;
     }
     .first .heading1{
         font-size: 80px;
